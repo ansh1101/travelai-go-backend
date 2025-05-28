@@ -1,4 +1,4 @@
-module github.com/ansh1101/travelai-go-backend.git
+module github.com/ansh1101/travelai-go-backend
 
 go 1.24.3
 
